@@ -1,5 +1,3 @@
-# spoqen.github.io
-Build Your Speaking Habits 
 <!DOCTYPE html>
 <html lang="en">
 <head>
